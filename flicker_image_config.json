@@ -1,0 +1,1 @@
+{"embeddings": [{"tensorName": "unnamed", "tensorShape": [570, [2048]], "tensorPath": "flicker_image_vectors.tsv", "metadataPath": "flicker_image_metadata.tsv", "sprite": {"imagePath": "flicker_image_sprite.jpg", "singleImageDim": [224, 224]}}], "modelCheckpointPath": ""}
