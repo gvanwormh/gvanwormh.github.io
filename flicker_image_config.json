@@ -1,1 +1,0 @@
-{"embeddings": [{"tensorName": "unnamed", "tensorShape": [570, [2048]], "tensorPath": "https://gvanwormh.github.io/flicker_image_vectors.tsv", "metadataPath": "https://gvanwormh.github.io/flicker_image_metadata.tsv", "sprite": {"imagePath": "https://gvanwormh.github.io/flicker_image_sprite.jpg", "singleImageDim": [224, 224]}}], "modelCheckpointPath": ""}
